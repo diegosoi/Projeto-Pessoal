@@ -1,3 +1,3 @@
 # Projeto-Pessoal
 
-![VDD](./assets/pjtpessoal.PNG)
+![VDD](./assets/pjtpsoal.PNG)
